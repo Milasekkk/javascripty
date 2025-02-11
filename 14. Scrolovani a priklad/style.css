@@ -1,0 +1,19 @@
+body {
+    padding: 0px 80px;
+
+}
+
+
+.top-page {
+    text-decoration: none;
+    background: rgb(234, 171, 171);
+    padding: 5px 10px;
+    border-radius: 15px;
+    color: white;
+    font-size: 18px;
+    position: fixed;
+    right: 20px;
+    bottom: 50px;
+
+    display: none;
+}
